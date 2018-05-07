@@ -1,0 +1,1 @@
+Hi, I am writing in this newfile using git bash:
