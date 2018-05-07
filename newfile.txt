@@ -1,1 +1,2 @@
 Hi, I am writing in this newfile using git bash:
+this is a modification by Edith
